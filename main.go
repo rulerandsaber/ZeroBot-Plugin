@@ -61,10 +61,10 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"          // 百度一下
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"       // 查询b站用户信息
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_parse" // b站视频链接解析
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/book_review"    // 哀伤雪刃吧推书记录
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"     // 藏头诗
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/book_review"    // 哀伤雪刃吧推书记录
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"     // 藏头诗
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"         // 选择困难症帮手
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"   // 说抽象话
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"   // 说抽象话
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"          // 三次元小姐姐
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"        // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru"       // DeepDanbooru二次元图标签识别
@@ -83,14 +83,14 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/image_finder"   // 关键字搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/inject"         // 注入指令
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/jandan"         // 煎蛋网无聊图
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/juejuezi"       // 绝绝子生成器
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/juejuezi"       // 绝绝子生成器
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/lolicon"        // lolicon 随机图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/midicreate"     // 简易midi音乐制作
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"           // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar"  // 摸鱼人日历
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"          // 点歌
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"     // 本地涩图
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"     // 本地老婆
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"     // 本地涩图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"     // 本地老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"        // 拼音首字母缩写释义工具
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"          // 铅笔小说网搜索
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"           // nsfw图片识别
